@@ -107,6 +107,14 @@ Arudino UNOの場合、下の写真のように挿すだけでOKです。
     void loop() {
     }
 
+### Nucleoによるプログラム例
+
+#### 接続方法  
+
+<img src="/images/WiringDiagram_Nucleo.jpg" width="350px">
+
+#### ソースコード
+[ソースコード(NUCLEO-L476RG)](https://github.com/y2kblog/64bit_MAC_Address_Module/blob/master/SampleCode/NUCLEO-L476RG/24AA025Exx_testing)
 
 ## License
 MIT License, see LICENSE.txt.
