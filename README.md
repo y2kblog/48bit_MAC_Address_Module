@@ -30,10 +30,9 @@ Ethernet、Wi-Fi、Bluetooth等のネットワーク接続デバイスに一意�
 
 <img src="/images/ProductContents_48bit.jpg" width="300px">
 
-<!--
 ## 販売  
-[スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/xxxx/)  
--->
+[スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/5318/)  
+※大量注文や在庫に関する問い合わせは[こちら](mailto:info.y2kb@gmail.com)までご連絡ください。  
 
 ### 回路図
 
@@ -48,9 +47,6 @@ Arudino UNOの場合、下の写真のように挿すだけでOKです。
 
 <img src="/images/WiringDiagram_Arduino.jpg" width="400px">
 
-<!--
-#### [ソースファイル](https://github.com/y2kblog/48bit_MAC_Address_Module/blob/master/SampleCode/Arduino/24AA025Exx_sample.ino)
--->
 
 #### ミニマムコード
 
